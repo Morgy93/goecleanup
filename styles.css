@@ -44,6 +44,10 @@ section {
   color: #f1c067;
 }
 
+.orange {
+  color: #da682f;
+}
+
 .links {
   display: flex;
   justify-content: center;
