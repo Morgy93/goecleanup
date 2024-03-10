@@ -6,7 +6,7 @@
 
 ## Events
 
-Das nächste Cleanup findet am **25.02.2024** statt. Mehr Infos folgen.
+Das nächste Cleanup findet am **17.03.2024** statt. Mehr Infos folgen.
 
 ## Über GöCleanup
 
