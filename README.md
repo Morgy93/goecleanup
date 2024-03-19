@@ -4,10 +4,11 @@
     <img src="images/logo.png" alt="GöCleanup Logo" width="300">
 </div>
 
+<!--
 ## Events
 
-Das nächste Cleanup findet am **17.03.2024** statt. Mehr Infos folgen.
-
+Das nächste Cleanup findet am **DD.DD.DDDD** statt. Mehr Infos folgen.
+-->
 ## Über GöCleanup
 
 GöCleanup ist eine Initiative, die sich für ein sauberes Göttingen einsetzt.
