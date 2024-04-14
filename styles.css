@@ -11,32 +11,22 @@ body {
 }
 
 .wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  background-color: rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  max-width: 500px;
+  width: max-content;
 }
 
-header {
-  display: flex;
-  justify-content: center;
-}
-
-img {
-  max-width: 300px;
+section {
+  padding: 20px;
+  width: 100%;
+  max-width: 460px;
 }
 
 h1,
 h2 {
   color: #f1c067;
   padding-bottom: 10px;
-}
-
-section {
-  background-color: rgba(0, 0, 0, 0.1);
-  border-radius: 20px;
-  margin: 10px;
-  padding: 20px;
-  max-width: 500px;
 }
 
 .highlight {
@@ -50,9 +40,5 @@ section {
 
 .links {
   display: flex;
-  justify-content: center;
-}
-
-.links a {
-  padding: 0 10px;
+  justify-content: space-evenly;
 }
