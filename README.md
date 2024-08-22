@@ -9,6 +9,7 @@
 
 Das nächste Cleanup findet am **DD.DD.DDDD** statt. Mehr Infos folgen.
 -->
+
 ## Über GöCleanup
 
 GöCleanup ist eine Initiative, die sich für ein sauberes Göttingen einsetzt.
@@ -36,6 +37,14 @@ Jeder kann mitmachen!
     <img
       src="images/whatsapp.svg"
       alt="Folge GöCleanup auf WhatsApp"
+      width="50"
+  >
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/goecleanup">
+    <img
+      src="images/telegram.svg"
+      alt="Folge GöCleanup auf Telegram"
       width="50"
   >
   </a>
