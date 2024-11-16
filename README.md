@@ -12,9 +12,9 @@ Das nächste Cleanup findet am **DD.DD.DDDD** statt. Mehr Infos folgen.
 
 ## Über GöCleanup
 
-GöCleanup ist eine Initiative, die sich für ein sauberes Göttingen einsetzt.
-Wir organisieren regelmäßig Cleanups, bei denen wir Müll in Göttingen einsammeln.
-Jeder kann mitmachen!
+GöCleanup ist eine Initiative, die sich für ein sauberes Göttingen engagiert. 
+Wir organisieren regelmäßig Cleanups, bei denen wir gemeinsam Müll in Göttingen sammeln. 
+Alle sind herzlich eingeladen, mitzumachen!
 
 <div align="center">
   <a href="https://www.instagram.com/goecleanup/">
